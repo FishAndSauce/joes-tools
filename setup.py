@@ -2,8 +2,6 @@ from setuptools import setup
 setup(
     name='joes-tools',
     version='0.1',
-    packages=find_packages(exclude=['sandbox*', 'tests*']),
-    include_package_data=True,
     install_requires=[
         'altgraph==0.16.1',
         'backports.functools-lru-cache==1.5',
