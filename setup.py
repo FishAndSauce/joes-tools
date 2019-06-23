@@ -1,6 +1,6 @@
 from setuptools import setup
 setup(
-    name='joes-tools',
+    name='joestools',
     version='0.1',
     install_requires=[
         'altgraph==0.16.1',
