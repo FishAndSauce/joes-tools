@@ -33,7 +33,7 @@ setup(
         'six==1.12.0',
         'tables==3.4.4',
         'typing==3.6.6',
-        'Werkzeug==0.14.1'
+        'Werkzeug==0.15.3'
     ],
     url='https://github.com/FishAndSauce/joes-tools',
     license='Yeah',
